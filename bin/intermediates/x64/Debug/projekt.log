@@ -1,0 +1,9 @@
+﻿  functions.cpp
+C:\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(41,1): warning C4005: "EOF": ponowna definicja makra
+C:\Users\kubaf\OneDrive\PG\PP\projekt vs FINAL\source\conio2.h(31,1): message : zobacz poprzednią definicję „EOF”
+C:\Users\kubaf\OneDrive\PG\PP\projekt vs FINAL\source\functions.cpp(465,19): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\kubaf\OneDrive\PG\PP\projekt vs FINAL\source\functions.cpp(505,33): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kubaf\OneDrive\PG\PP\projekt vs FINAL\source\functions.cpp(538,33): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  main.cpp
+  Generowanie kodu...
+  projekt.vcxproj -> C:\Users\kubaf\OneDrive\PG\PP\projekt vs FINAL\bin\x64\Debug\projekt.exe
